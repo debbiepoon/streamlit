@@ -5,9 +5,10 @@ import pydeck as pdk
 import plotly.express as px
 
 DATE_TIME = "date/time"
-DATA_URL = (
-    "Motor_Vehicle_Collisions_-_Crashes.csv" #"/home/cicada/Downloads/rhyme/streamlit/Motor_Vehicle_Collisions_-_Crashes.csv
-)
+DATA_URL = "https://data.cityofnewyork.us/api/views/h9gi-nx95/files/bd7ab0b2-d48c-48c4-a0a5-590d31a3e120?download=true&filename=MVCollisionsDataDictionary_20190813_ERD.xlsx"
+    
+    #"Motor_Vehicle_Collisions_-_Crashes.csv" #"/home/cicada/Downloads/rhyme/streamlit/Motor_Vehicle_Collisions_-_Crashes.csv
+
 
 st.title("Motor Vehicle Collisions in New York City")
 st.markdown("This application is a Streamlit dashboard that can be used "
