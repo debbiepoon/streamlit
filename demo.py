@@ -5,7 +5,9 @@ import pydeck as pdk
 import plotly.express as px
 
 DATE_TIME = "date/time"
-DATA_URL = ("https://data.cityofnewyork.us/api/views/h9gi-nx95/files/bd7ab0b2-d48c-48c4-a0a5-590d31a3e120?download=true&filename=MVCollisionsDataDictionary_20190813_ERD.xlsx")
+DATA_URL = (r"C:\Users\Poon\Downloads\Github upload\streamlit\Motor_Vehicle_Collisions_-_Crashes.csv")
+    
+#"https://data.cityofnewyork.us/api/views/h9gi-nx95/files/bd7ab0b2-d48c-48c4-a0a5-590d31a3e120?download=true&filename=MVCollisionsDataDictionary_20190813_ERD.xlsx")
     
     #"Motor_Vehicle_Collisions_-_Crashes.csv" #"/home/cicada/Downloads/rhyme/streamlit/Motor_Vehicle_Collisions_-_Crashes.csv
 
