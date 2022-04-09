@@ -6,8 +6,8 @@ import plotly.express as px
 
 #/home/cicada/Downloads/rhyme/streamlit/Motor_Vehicle_Collisions_-_Crashes.csv
 
-DATA_URL = (
-    r"C:\Users\Poon\Downloads\Github upload\streamlit\Motor_Vehicle_Collisions_-_Crashes.csv"
+DATA_URL = ("https://download1527.mediafire.com/9v61rzevmtig/0rtthvazpaioi3h/Motor_Vehicle_Collisions_-_Crashes.csv"
+    #r"C:\Users\Poon\Downloads\Github upload\streamlit\Motor_Vehicle_Collisions_-_Crashes.csv"
 )
 
 st.title("Motor Vehicle Collisions in New York City")
