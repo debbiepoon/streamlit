@@ -5,7 +5,7 @@ import pydeck as pdk
 import plotly.express as px
 
 DATE_TIME = "date/time"
-DATA_URL = ("https://www.mediafire.com/file/0rtthvazpaioi3h/Motor_Vehicle_Collisions_-_Crashes.csv/file")
+DATA_URL = ("https://download1527.mediafire.com/9v61rzevmtig/0rtthvazpaioi3h/Motor_Vehicle_Collisions_-_Crashes.csv")
     
     #r"C:\Users\Poon\Downloads\Github upload\streamlit\Motor_Vehicle_Collisions_-_Crashes.csv")
     
